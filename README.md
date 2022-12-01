@@ -1,7 +1,7 @@
 # 3D fractal trees generator
 
 ## Description
-A program that uses L-systems to generate fractal trees and OpenGL to render them in 3D. 
+A program that uses L-systems to generate fractal trees and OpenGL to animate them in 3D. 
 
 Features include a rotating 3D model of a tree generated from these changeable parameters:
 * tree branches and leaves density (i. e. depth of the recursion),
