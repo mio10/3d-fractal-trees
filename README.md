@@ -13,4 +13,4 @@ Features include a rotating 3D model of a tree generated from these changeable p
 A Microsoft .NET redistributable installation is probably required to run.
 
 ## Quick start
-Run `FractalTree\bin\Debug\FractalTree`.
+Run `FractalTree\bin\Debug\FractalTree.exe`.
