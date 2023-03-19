@@ -1,5 +1,7 @@
 # 3D fractal trees generator
 
+![](preview.gif)
+
 ## Description
 A program that uses L-systems to generate fractal trees and OpenGL to animate them in 3D. 
 
@@ -8,8 +10,6 @@ Features include a rotating 3D model of a tree generated from these changeable p
 * wood and leaves color,
 * tree's size,
 * tree crown's breadth.
-
-![](thumbnail.png)
 
 ## Requirements
 A Microsoft .NET redistributable installation is probably required to run.
